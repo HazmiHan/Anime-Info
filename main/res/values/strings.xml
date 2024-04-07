@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimeInfo</string>
+    <string name="one_piece">One Piece</string>
+    <string name="rent">Rent</string>
+    <string name="buy">Buy</string>
+    <string name="rating">4,9</string>
+    <string name="type">Family</string>
+    <string name="percentage">97%</string>
+    <string name="familiarity">Similar</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nam aliquam sem et tortor consequat id porta nibh venenatis. Gravida dictum fusce ut placerat orci. Pellentesque adipiscing commodo elit at imperdiet dui. Fermentum odio eu feugiat pretium nibh ipsum. Diam vel quam elementum pulvinar etiam non quam lacus. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Aliquam nulla facilisi cras fermentum odio eu feugiat. At tempor commodo ullamcorper a lacus vestibulum sed. Aliquet bibendum enim facilisis gravida neque convallis. Amet commodo nulla facilisi nullam vehicula ipsum. Dui ut ornare lectus sit amet est.</string>
+</resources>
